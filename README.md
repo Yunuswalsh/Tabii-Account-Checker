@@ -21,7 +21,7 @@ Her kullanıcıya özel lisans anahtarı gerektirir ve doğrulama işlemi `examp
 **
 şifre:Yunuswalsh
 
-NOT! : program bir hack programı olduğu için defender virüs algılar ama virüs yoktur zaten source vermişim bakabilirsiniz
+NOT! : program bir hacking programı olduğu için defender virüs algılar ama virüs yoktur zaten source vermişim bakabilirsiniz
 
 ---
 
